@@ -45,7 +45,8 @@ export class Button extends Component {
 ### Usando componentes dentro de componentes
 
 ```ts
-import { Component } from "../../src/core/component";
+import { Component } from "hask-dom";
+
 import { Button } from "./button";
 
 export class Counter extends Component {
