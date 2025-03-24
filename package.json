@@ -1,0 +1,22 @@
+{
+  "name": "hask-dom",
+  "version": "1.0.0",
+  "description": "Mini Virtual DOM library",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "front-end",
+    "virtual-dom"
+  ],
+  "author": "José García",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "22.13.13",
+    "typescript": "5.8.2",
+    "vite": "^6.2.3"
+  }
+}
